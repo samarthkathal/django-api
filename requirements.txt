@@ -14,7 +14,7 @@ gunicorn==20.0.4
 promise==2.3
 psycopg2==2.8.5
 #pygraphviz==1.5
-PyJWT==1.7.1
+PyJWT==2.4.0
 #python-dotenv==0.14.0
 pytz==2020.1
 Rx==1.6.1
